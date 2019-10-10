@@ -1,0 +1,24 @@
+﻿
+10章 月晴 22/241  14/20
+
+day14 java2 开始
+
+风光大家  2 26:19
+
+抽象类 有模式 ，接口有代理模式，学习资料在 day15  
+
+day16 java1 还剩2 个
+ ThrowsTest 和 OverrideTest
+
+
+
+
+异常概述与异常体系结构
+常见异常
+异常处理机制一：try-catch-finally
+
+
+
+异常处理机制二：throws
+手动抛出异常：throw
+用户自定义异常类
